@@ -17,6 +17,7 @@
 h6.a {
     font-style:normal;
     font-family: "Times New Roman", Times, serif;
+    color: greenyellow;
     font-size: 20px;
     background-color:red;
   }
@@ -24,6 +25,7 @@ h6.a {
   h6.b {
     font-style: italic;
     font-family: "Times New Roman", Times, serif;
+    color : green;
     font-size: 20px;
     background-color:green;
   }
@@ -32,11 +34,13 @@ h6.a {
     font-style: oblique;
     font-family: "Times New Roman", Times, serif;
     font-size: 20px;
+    color : blue;
     background-color:yellow;
   }
   h6.d {
       font-style: bold;
       font-family: "Times New Roman", Times, serif;
       font-size: 20px;
+      color : red;
       background-color:blue;
   }
