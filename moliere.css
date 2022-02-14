@@ -25,7 +25,7 @@ h6.a {
   h6.b {
     font-style: italic;
     font-family: "Times New Roman", Times, serif;
-    color : green;
+    color : violet;
     font-size: 20px;
     background-color:green;
   }
@@ -43,4 +43,30 @@ h6.a {
       font-size: 20px;
       color : red;
       background-color:blue;
+  }
+
+ 
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 5px;
+    text-align: center;
+    
+  }
+  th {
+    background-color: green;
+  }
+
+  th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  tr:nth-child(odd) {
+    background-color: #A5AAAA;
   }
