@@ -1,0 +1,42 @@
+.speech {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100%;
+    color:black;
+}
+.direction {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: DodgerBlue;
+    background-color: rgb(255, 240, 244);
+}
+.direction:hover{
+    background-color: greenyellow;
+    color: tomato;
+    text-shadow: 2px 2px 5px rgb(0, 4, 255);
+}  
+h6.a {
+    font-style:normal;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    background-color:red;
+  }
+  
+  h6.b {
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    background-color:green;
+  }
+  
+  h6.c {
+    font-style: oblique;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    background-color:yellow;
+  }
+  h6.d {
+      font-style: bold;
+      font-family: "Times New Roman", Times, serif;
+      font-size: 20px;
+      background-color:blue;
+  }
